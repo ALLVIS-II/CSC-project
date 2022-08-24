@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=people
+comment0.text=\r\n\ @author\ (Alvis)\r\n\ @version\ (8/7/'23)\r\n
+comment1.params=Student\ Time\ teacher
+comment1.target=people(boolean,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ people\r\n
+comment2.params=
+comment2.target=void\ result()
+numComments=3
